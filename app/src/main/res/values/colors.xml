@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#505570</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#f5f5f5</color>
+    <color name="sky">#2a7cda</color>
+    <color name="sky_light">#4076b4</color>
+    <color name="sweet">#b42f49</color>
+    <color name="sweet_light">#d14460</color>
+    <color name="yellow_light">#b9ab2f</color>
+    <color name="green_dep">#0d91,8a</color>
+    <color name="green_dark">#186863</color>
+    <color name="purple">#8d2bba</color>
+    <color name="blue_light">#4643d2</color>
+</resources>
